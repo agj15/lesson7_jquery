@@ -13,8 +13,7 @@ Annie Jacobson
 We are introduced to different JavaScript libraries, which is basically just a collection of prewritten JavaScripts. This one is particular is jQuery, and the frameworks within in.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://agj15.github.io/lesson7_jquery/.
 
 ### Lessons Learned in the Assignment:
 1. jQuery: A commonly used JavaScript library. It helps coders create code with minimal added work. Most of the code needed is created for them, and is open for anyone to use. To use it you link .js file containing library to HTML document. Another way is to simply download it from jQuery.com and can specify a location on CDN. All of jQuery's code connects to JavaScript rules, and you know it is jQuery if you see a "$" at the beginning of the statement.
